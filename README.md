@@ -11,11 +11,13 @@ Tweepy is a amazing library of python and it make you sure to do manipulation wi
 
 ### Requirements:
 
+```shell
 pip install tweepy
 pip install pandas
 pip install numpy
 pip install wget
-
+```
+#### Usage:
 
 ```shell
 
